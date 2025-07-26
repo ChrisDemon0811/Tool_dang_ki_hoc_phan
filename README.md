@@ -10,7 +10,7 @@
 # II. Hướng dẫn dùng tool 
 ### 1. Cài môi trường chạy code (IDE):
 Tool dùng ngôn ngữ `Python` nên bạn có khá nhiều sự lựa chọn IDE để chạy chương trình như `Pycharm`, `Visual Studio Code`, `Sublime Text`,.... Tôi khuyên bạn nên dùng `Visual Studio Code` vì nó khá tiện và dễ dùng        
-Cài đặt và chạy `Python`  `Visual Studio Code` ở [đây](https://youtu.be/yZFG5ktaZtU?si=Tj3DBs7wEL33M2xb)
+Cài đặt và chạy `Python` trên `Visual Studio Code` ở [đây](https://youtu.be/yZFG5ktaZtU?si=Tj3DBs7wEL33M2xb)
 
 ### 2. Tải code và cài thư viện:
 - Tải code:  
