@@ -14,7 +14,7 @@ Cài đặt và chạy `Python`  `Visual Studio Code` ở [đây](https://youtu.
 
 ### 2. Tải code và cài thư viện:
 - Tải code:  
-  - Bạn có thể nhập vào file `tool.py` ở phía trên và tải/copy code về hoặc nhấp vào [đây]()
+  - Bạn có thể nhập vào file `tool.py` ở phía trên và tải/copy code về hoặc nhấp vào [đây](https://github.com/ChrisDemon0811/Tool_dang_ki_hoc_phan/blob/main/tool.py)
 - cài thư viện:
   - Trong đoạn code của tôi có 2 thư viện nhưng thư viện đầu đã được tích hợp sẵn trong `Python` chỉ cần cài thêm thư viện `aiohttp` 
   - Các bước cài thư viện `aiohttp`:
