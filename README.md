@@ -19,7 +19,7 @@
 - [3. Hỗ trợ cài đặt tool](#3-hỗ-trợ-cài-đặt-tool)
 - [4. Cảnh báo khi dùng tool](#4-cảnh-báo-khi-dùng-tool)
 
-===========================================================================================
+===================================================================================
 
 # I. Mở đầu
 đây là công cụ tiện lợi giúp cho sinh viên đăng kí học phần nhanh chóng chỉ cần bấm chạy và chờ đến khi đăng kí thành công môn học.
