@@ -38,7 +38,7 @@ Cài đặt và chạy `Python` trên `Visual Studio Code` ở [đây](https://y
 ### 4. Lấy Cookies và mã môn học 
 - Lấy Cookies ASC.AUTH:
   - Vào trang sinh viên bấm phím `F12` => chọn tab `Application` 
-  <img src="https://sf-static.upanhlaylink.com/img/image_202507264ee99a24c918129790ceafcf281a794a.jpg" alt="Screenshot 2025-07-26 150009.png">        
+  <img src="https://sf-static.upanhlaylink.com/img/image_202507274acb1fb08a08f2eb32c7f4d6861e9ae4.jpg" alt="Screenshot 2025-07-26 150009.png">       
 
   - chọn mục `Cookies` và chọn vào link trang sinh viên trường của bạn => nhấp vào dòng ASC.AUTH copy hết mã Cookies và dán vào `your cookies` trong 
   - **Lưu ý:** vì cookies liên quan đến tài khoảng nên không được share cho bất kì ai, bạn có thể bị đánh cắp tài khoảng nếu làm lộ cookies 
