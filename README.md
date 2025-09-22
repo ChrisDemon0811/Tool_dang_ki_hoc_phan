@@ -23,7 +23,7 @@
 
 # I. Mở đầu
 đây là công cụ tiện lợi giúp cho sinh viên đăng kí học phần nhanh chóng chỉ cần bấm chạy và chờ đến khi đăng kí thành công môn học.
-- ưu điểm: bỏ qua bước chờ load danh sách học phần rồi chọn lớp, không cần phải thức đêm để tranh slot đăng 
+- ưu điểm: bỏ qua bước chờ load danh sách học phần rồi chọn lớp, không cần phải thức đêm để tranh slot đăng kí
 - nhược điểm: gửi nhiều request liên tục có thể bị chặn IP (khắc phục: hạn chế bấm chạy liên tục, chờ 1 xíu rồi bấm chạy tiếp), chưa có cơ chế để biết đã đăng kí thành công chưa (phải tự kiểm tra)
 
 # II. Hướng dẫn cài đặt 
