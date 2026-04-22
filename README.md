@@ -6,7 +6,7 @@
 [I. Mở đầu ](#i-mở-đầu) 
 
 [II. Hướng dẫn cài đặt](#ii-hướng-dẫn-cài-đặt)
-- [1. Cài đặt too](#1-cài-đặt-tool)
+- [1. Cài đặt tool](#1-cài-đặt-tool)
 - [2. Cấu hình tool để sử dụng](#2-cấu-hình-tool-để-sử-dụng)
 
 [III. Hướng dẫn dùng tool](#iii-hướng-dẫn-dùng-tool)
