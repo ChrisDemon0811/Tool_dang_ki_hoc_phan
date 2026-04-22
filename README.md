@@ -6,18 +6,17 @@
 [I. Mở đầu ](#i-mở-đầu) 
 
 [II. Hướng dẫn cài đặt](#ii-hướng-dẫn-cài-đặt)
-- [1. Cài môi trường chạy code (IDE)](#1-cài-môi-trường-chạy-code-ide)
-- [2. Tải code và cài thư viện](#2-tải-code-và-cài-thư-viện)
-- [3. Nhập URL](#3-nhập-url)
-- [4. Lấy Cookies và mã môn học](#4-lấy-cookies-và-mã-môn-học)   
+- [1. Cài đặt too](#1-cài-đặt-tool)
+- [2. Cấu hình tool để sử dụng](#2-cấu-hình-tool-để-sử-dụng)
 
 [III. Hướng dẫn dùng tool](#iii-hướng-dẫn-dùng-tool)
 
 [IV. Một số cần lưu ý](#iv-một-số-cần-lưu-ý)
-- [1. Tính tương thích với mọi Website của trường](#1-tính-tương-thích-với-mọi-website-của-trường)
-- [2. Dùng tool hợp lý](#2-dùng-tool-hợp-lý)
-- [3. Hỗ trợ cài đặt tool](#3-hỗ-trợ-cài-đặt-tool)
-- [4. Cảnh báo khi dùng tool](#4-cảnh-báo-khi-dùng-tool)
+- [1. Thu phí khi dùng tool](#1-thu-phí-khi-dùng-tool)
+- [2. Chống lạm dụng tool](#2-chống-lạm-dụng-tool)
+- [3. Bảo mật của tool](#3-bảo-mật-của-tool)
+- [4. Giải đáp](#4-giải-đáp)
+- [5. Cảnh báo khi dùng tool](#5-cảnh-báo-khi-dùng-tool)
 
 ===========================================================================
 
