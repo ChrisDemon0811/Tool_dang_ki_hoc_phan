@@ -30,7 +30,7 @@
 
 # II. Hướng dẫn cài đặt 
 ### 1. Cài đặt tool
-- Nhấn vào `Releases` chọn file `Tool_ĐKHP.exe` để tải về hoặc nhấp vào [đây](github.com/ChrisDemon0811/Tool_dang_ki_hoc_phan/releases/download/Tool_%C4%90KHP/tool.DKHP.rar)
+- Nhấn vào `Releases` chọn file `Tool_ĐKHP.exe` để tải về hoặc nhấp vào [đây](/ChrisDemon0811/Tool_dang_ki_hoc_phan/releases/download/Tool_%C4%90KHP/tool.DKHP.rar)
 - tìm đến file vừa tải về và giải nén ra 
 - truy cập vào thư mục vừa giải nến double click vào file `Tool_ĐKHP` có logo VAA để dùng
 
