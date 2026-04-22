@@ -1,5 +1,4 @@
 
-# Đây chỉ là khung code hãy đọc kĩ và hoàn thiện code mới tự đăng kí cho cá nhân
 # Tool đăng kí học phần dành cho sinh viên
 
 ## Menu
